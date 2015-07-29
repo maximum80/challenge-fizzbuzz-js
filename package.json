@@ -1,0 +1,26 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.1",
+  "description": "fizzbuz",
+  "main": "app.js.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-check/challenge-fizzbuzz-js.git"
+  },
+  "keywords": [
+    "codecheck",
+    "test"
+  ],
+  "author": "Givery.inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-check/challenge-fizzbuzz-js/issues"
+  },
+  "homepage": "https://github.com/code-check/challenge-fizzbuzz-js",
+  "devDependencies": {
+    "chai": "^3.2.0"
+  }
+}
