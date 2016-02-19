@@ -6,5 +6,10 @@
     "test/test.private.js"
   ],
   "test": "mocha",
-  "allowNewFile": false
+  "allowNewFile": false,
+  "tags": [
+      "JavaScript",
+      "Node.js",
+      "Algorithm"
+  ]
 }
