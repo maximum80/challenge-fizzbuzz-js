@@ -1,15 +1,21 @@
 {
   "editable": [
-    "app.js"
+    "app.js",
+    "answer.md"
   ],
   "excludes": [
     "test/test.private.js"
   ],
+  "readme" {
+    "en" : "README.md",
+    "ja" : "README_ja.md"
+  },
   "test": "mocha",
   "allowNewFile": false,
   "tags": [
       "JavaScript",
       "Node.js",
-      "Algorithm"
+      "Algorithm",
+      "FizzBuzz"
   ]
 }
