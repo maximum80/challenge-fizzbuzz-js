@@ -40,8 +40,8 @@
 
 ```
 codecheck: Finish with code 0
-codecheck: tests  : 3
-codecheck: success: 3
+codecheck: tests  : 4
+codecheck: success: 4
 codecheck: failure: 0
 ```
 
