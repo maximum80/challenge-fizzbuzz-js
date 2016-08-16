@@ -7,7 +7,7 @@
     "test/test.private.js"
   ],
   "readme" : {
-    "en" : "README.md",
+    "en" : "README_ja.md",
     "ja" : "README_ja.md"
   },
   "test": "mocha",
