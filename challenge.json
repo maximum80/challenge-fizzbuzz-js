@@ -4,7 +4,11 @@
     "answer.md"
   ],
   "excludes": [
-    "test/test.private.js"
+    "test/test.private.js",
+    ".gitignore",
+    "challenge.json",
+    "codecheck.yml",
+    "package.json"
   ],
   "readme" : {
     "en" : "README_ja.md",
