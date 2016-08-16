@@ -4,6 +4,7 @@
     "answer.md"
   ],
   "excludes": [
+    "README.md",
     "test/test.private.js",
     ".gitignore",
     "challenge.json",
