@@ -7,9 +7,7 @@
     "README.md",
     "test/test.private.js",
     ".gitignore",
-    "challenge.json",
-    "codecheck.yml",
-    "package.json"
+    "challenge.json"
   ],
   "readme" : {
     "en" : "README_ja.md",
