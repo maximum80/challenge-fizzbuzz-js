@@ -15,7 +15,7 @@ FizzBuzzとは、与えられた任意の整数に対して、その数を返す
 
 |Input|1|3|5|15|
 |---|---|---|---|---|
-|Input|1|Fizz|Buzz|FizzBuzz|
+|Output|1|Fizz|Buzz|FizzBuzz|
 
 
 ### ステップ2, あなたの書いたコードについて説明してください
